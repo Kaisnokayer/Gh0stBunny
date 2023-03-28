@@ -2,7 +2,9 @@
 margin: 0}
 html,body{
 	height: 100%;
-	background-color: antiquewhite;
+	background-image: url('src/gal.gif');
+
+	;
 }
 
 .Menu a{text-decoration: none;
