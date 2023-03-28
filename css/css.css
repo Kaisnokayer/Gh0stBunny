@@ -32,7 +32,7 @@ border-block: 5px black solid;
 	width: 100px;
 	
 }
-.Galeria > div{
+.Galeria > td{
 	border: 3px;
 	margin: 10px auto;
 	width: auto;
