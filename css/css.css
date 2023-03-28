@@ -23,11 +23,20 @@ color: black;
 border-block: 5px black solid;
 }
 .Foto {
-	width: 300px;
+	align-items: center;
+	width: 100px;
+	padding: 20px;
+	
 }
 .Foto img{
-	width: 50px;
+	width: 100px;
+	
 }
-
+.Galeria > div{
+	border: 3px;
+	margin: 10px auto;
+	width: auto;
+	align-items: center;
+}
 
 
