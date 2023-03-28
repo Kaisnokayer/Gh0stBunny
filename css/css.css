@@ -25,6 +25,9 @@ border-block: 5px black solid;
 .Foto {
 	width: 300px;
 }
+.Foto img{
+	width: 50px;
+}
 
 
 
