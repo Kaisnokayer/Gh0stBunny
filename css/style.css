@@ -1,0 +1,50 @@
+*{
+    
+}
+.menu{ 
+    
+    margin: 5px auto;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 80%;
+    height: 50px;
+    background-color: rgba(255, 0, 0, 0.575);
+}
+
+.menu a{
+    
+    text-align: center;
+    display: inline-block;
+    align-self:center;
+    color:black;
+    margin: 5px auto;
+    margin-right: -4px;
+    padding: 0px auto;
+    width: 24%;
+    font-weight: 20%;
+    font-size: 150%;
+    height: 30px;
+    text-decoration: double;
+    border-block-start: 5;
+    border: 3px red dashed;
+}
+.galeria img{
+    align-items: start;
+    display: inline-block;
+    width: 21%;
+    height: 100px;
+    margin: 1px auto;
+    padding: 10px;
+    border: 5px green solid;
+    align-items: self-start;
+}
+.galeria{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    background: fixed chocolate;
+}
+.back{
+    width: 70%;
+    margin: 0 auto;
+}
